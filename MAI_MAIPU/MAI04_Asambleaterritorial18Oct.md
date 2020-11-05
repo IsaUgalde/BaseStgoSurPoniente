@@ -86,7 +86,7 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 #### Alimentación conciente, alimentación autogestionada y redes de abastecimiento(Red de abastecimiento maipú), la consigna "no vayas al mall" y además reapropiación del espacio público y defensa del humendal "El pajonal" a tráves de la creación de una plaza comunitaria, recuperando un espacio que era un basural, transformándolo en huerta. 
-![imagen](Imag/karakol2.png)
+![imagen](/Imag/karakol2.png)
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*) 
@@ -95,7 +95,7 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-![imagen](Imag/AT18.png)
+![imagen](/Imag/AT18.png)
 
 El icono de la asamblea es una golondrina ya que representa la importancia de la fauna y flora y bio diversidad del territorio - humedal "El pajonal", donde la agrupación destaca el avistamiento de aves y la importancia de su consevarvación. 
 

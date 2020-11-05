@@ -99,8 +99,8 @@ Hasta la victoria siempre.”  (Descripción perfil de ig).
 
 | Declaraciones | Infografía | 
 |---|---|
-|Disolución de Carabineros "Institución manchada con sangra" (Publicación 3 Octubre 2020) | ![imagen](Imag/pacos.png) |
-|Protesta territorial en Maipú por la represión de la yuta y por la libertad a lxs presxs políticos (5 Octubre 2020)|![imagen](Imag/yuta.png)
+|Disolución de Carabineros "Institución manchada con sangra" (Publicación 3 Octubre 2020) | ![imagen](/Imag/pacos.png) |
+|Protesta territorial en Maipú por la represión de la yuta y por la libertad a lxs presxs políticos (5 Octubre 2020)|![imagen](/Imag/yuta.png)
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización 

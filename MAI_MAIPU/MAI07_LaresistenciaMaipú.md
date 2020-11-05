@@ -74,6 +74,7 @@ Demanda clave: aborto libre, seguro y gratuito garantizado por el estado.
 * Velatón 
 * Ferias Libres 
 * Lucatón para compas con hijes (contexto pandemia)
+* Pañuelazos feministas virtuales (vía historias de Ig)
 
 
 ---
@@ -86,7 +87,7 @@ Demanda clave: aborto libre, seguro y gratuito garantizado por el estado.
 ####  Asambleísmo - horizontalidad 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
-Predomina la visibilización de violencia de parte de carabineros, enfocada en el machismo y patriarcado asociada a la institución y al aparato estatal. Al comienzo habían más publicaciones asociadas a actividades territoriales, y luego el perfil se enfoca en información y visibilización de contigencia nacional: videos e imágenes de violencia policial en la Araucanía (a raíz de la huelga de Hambre del Machi Linconao), se centra en el caso de Antonia barra (subiendo funas a Martín Pradenas, información de la audiencia), caso de ambar, conmemoración 11 de septiembre y del estallido social. Cercano a 18-0 se convoca a marcha territorial, y cacerolazos en el territorio. Actividades/organización en ese periodo: lukatón para madres con hijes.  
+Predomina la visibilización de violencia de parte de carabineros, enfocada en el machismo y patriarcado asociada a la institución y al aparato estatal. Al comienzo habían más publicaciones asociadas a actividades territoriales, y luego el perfil se enfoca en información y visibilización de contigencia nacional: videos e imágenes de violencia policial en la Araucanía (a raíz de la huelga de Hambre del Machi Linconao), se centra en el caso de Antonia barra (subiendo funas a Martín Pradenas, información de la audiencia), caso de ambar, conmemoración 11 de septiembre y del estallido social. Cercano a 18-0 se convoca a marcha territorial, y cacerolazos en el territorio. Actividades/organización en ese periodo: lukatón para madres con hijes, pañuelazos virtuales. 
 
 **Iconos:**
 
