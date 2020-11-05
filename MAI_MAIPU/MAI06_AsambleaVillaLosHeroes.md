@@ -13,9 +13,10 @@ Ana Toledo - cataluna.toledo@gmail.com (se indican sus datos para transferencias
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* 
-* 
-* 
+* La (r)esistencia Maipú
+* Asamblea general cerrillos 
+* Vecinos movilizados Maipú 
+* Asamblea Las Parcelas
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
