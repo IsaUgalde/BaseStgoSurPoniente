@@ -69,9 +69,9 @@ Convocatoria a protestas (marchas, cacerolazos), contrainformación, visibilizac
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre. 
 La organización-medio de comunicación ha mantenido una línea más bien similar de videos IGTV y fotografías de represión policial, protestas,  visibilización de noticias/injusticias sociales, convocatorias a las protesta, cacerolazo, intolerancia al racismo (Mapuche), y a carabineros. 
 
-**Iconos:**  ![imagen](Imag/MAI01_2.png)
+**Iconos:**  ![imagen](/Imag/MAI01_2.png)
 
-**Banderas:** ![imagen](Imag/MAI01.png)
+**Banderas:** ![imagen](/Imag/MAI01.png)
 
 **Diseño estético:**  Se utilizan mucho los colores blanco, rojo, negro, la palabra "antifascismo" y "pueblo".
 
@@ -88,7 +88,7 @@ Hasta la victoria siempre.”  (Descripción perfil de ig).
 
 | Declaraciones | infografía | 
 |--|---|
-|¿Por qué no nos compramos el proceso constituyente?  | ![imagen](Imag/constituyente.png) |
+|¿Por qué no nos compramos el proceso constituyente?  | ![imagen](/Imag/constituyente.png) |
 |--|---|
 
 ---

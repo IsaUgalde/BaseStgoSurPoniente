@@ -95,8 +95,10 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-![linkear imagen](Imag/AT18.png)
+![imagen](Imag/AT18.png)
+
 El icono de la asamblea es una golondrina ya que representa la importancia de la fauna y flora y bio diversidad del territorio - humedal "El pajonal", donde la agrupación destaca el avistamiento de aves y la importancia de su consevarvación. 
+
 **Banderas:**
 
 **Diseño estético:**
@@ -110,12 +112,12 @@ El icono de la asamblea es una golondrina ya que representa la importancia de la
 
 | Declaraciones | infografía | 
 |---|---|
-|"El estado y el empresariado son verdaderos terroristas" | ![linkear imagen](Imag/estado18.png) Publicación Ig 5 Sept 2020|
+|"El estado y el empresariado son verdaderos terroristas" | ![imagen](Imag/estado18.png) Publicación Ig 5 Sept 2020|
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> Se visibiliza reproche y repudio hacia Carabineros y las fuerzas del orden. Quienes violan sistemáticamente los derechos humanos y ejercen violencia desmedida a la ciudadanía, y en específico a maipucinos vecinos. 
 
 | Declaraciones | infografía | 
 |---|---|

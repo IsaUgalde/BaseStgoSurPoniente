@@ -71,7 +71,7 @@ lesboFeminismo,  derechos de minorías sexuales y discidencias, derechos  de la 
 * Participación en Conversatorios
 * Pasacalles 
 ### Afiche convocatoria 
-![imagen](Imag/21nov.png) 
+![imagen](/Imag/21nov.png) 
 ###### Fuente: publicación Ig 21 Noviembre 2019
 
 ---
@@ -89,13 +89,13 @@ Asambleismo y horizontalidad.
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 En general se visibiliza una línea transversal de contenido (más allá de la contigencia que marca pauta en publicaciones: destitución Ministra Plá al inicio de la revuelta, asesinato de ambar, caso de Antonia, etc.) desde Octubre, marcada por las asambleas separatistas, feministas, libres de misoginia y fobia. 
 
-![imagen](Imag/separatista.png) 
+![imagen](/Imag/separatista.png) 
 
 **Iconos:**
-![imagen](Imag/mujponiente.png) 
+![imagen](/Imag/mujponiente.png) 
 
 ### Aborto Libre, seguro y gratuito 
-![imagen](Imag/aborto.png) 
+![imagen](/Imag/aborto.png) 
 ###### Fuente: Publicación Ig 29 Julio 2020
 
 
@@ -111,8 +111,8 @@ Morado, negro, blanco. Verde (pañoleta) Alusión al movimiento feminista y a la
 
 | Declaraciones | infografía | 
 |---|---|
-|"Estado Genocida e inoperante"|  ![imagen](Imag/estado.png) 
-|"Si el estado amenaza seguiremos abortando con las amigas y en la casa"| ![imagen](Imag/aborto1.png) |
+|"Estado Genocida e inoperante"|  ![imagen](/Imag/estado.png) 
+|"Si el estado amenaza seguiremos abortando con las amigas y en la casa"| ![imagen](/Imag/aborto1.png) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -127,5 +127,5 @@ Morado, negro, blanco. Verde (pañoleta) Alusión al movimiento feminista y a la
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización
 ## Boletines Mensuales: "Cuerpas desobedientes"
 La asamblea comenzó a realizar boletines mensuales desde 9 de Julio del 2020 en memoria de Mónica Briones, asesinada el 9 de Julio de 1984. Por ello los 9 de cada mes realizan boletines (escritos a mano, digitalizados; "para desmarcarse de la hegemonía digital") en los que se incluyen ilustraciones, relatos,  información de primeros auxilios, recetas veganas, "los funados del mes", medios e información para abortar, entre otras temáticas. Link de linketree con los boletines. [Link de linketree con los boletines.](https://linktr.ee/a.mujeresydisidenciasmaipu)
- ![imagen](Imag/boletin4.png)
+ ![imagen](/Imag/boletin4.png)
  ###### Fuente: boletín 4 - 9 octubre 2020

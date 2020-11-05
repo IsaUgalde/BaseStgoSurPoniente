@@ -68,7 +68,8 @@ Se auto definen como una organización política, que busca la participación ho
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 Demanda Medioambiental - no más zonas de sacrificio: "No al oleaducto de sonacol", basta de abusos de las grandes empresas. Y creación de huerta comunitaria. 
 
-![imagen](Imag/huertolosheroes.png) 
+![imagen](/Imag/huertolosheroes.png)
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
@@ -80,7 +81,7 @@ Asambleísmo y horizontalidad.
 **Iconos:**
 
 **Banderas:**
-![imagen](Imag/losheroes.png)
+![imagen](/Imag/losheroes.png)
 **Diseño estético:**
 
 > "Aquí nadie se rinde" 
@@ -91,7 +92,7 @@ Asambleísmo y horizontalidad.
 > Se asocia al estado con un sistema fascista, colonial y patriarcal 
 
  Declaración
-![imagen](Imag/declaheroes.png) |
+![imagen](/Imag/declaheroes.png) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -100,7 +101,7 @@ Asambleísmo y horizontalidad.
 
 | Declaraciones | infografía | 
 |---|---|
-|"Justicia y castigo a los asesinos uniformados" | ![imagen](Imag/pacoslosheroes.png) Jornada Cultural Noviembre 2020|
+|"Justicia y castigo a los asesinos uniformados" | ![imagen](/Imag/pacoslosheroes.png) Jornada Cultural Noviembre 2020|
 
 
 ---
