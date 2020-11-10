@@ -1,7 +1,7 @@
 #### FOLIO: MAI04
-# Asamblea territorial 18 de Octubre
+# Asamblea territorial 18 de Octubre (Ahora se llama Asamblea Territorial Barrio Clotario Blest)
 
-[instagram](https://www.instagram.com/asambleaterritorial18deoctubre/)
+[instagram](https://www.instagram.com/p/B5k_CmmFNP2/)
 [facebook](https://www.facebook.com/asambleaterritorial18deoctubre)
 [Sitio web](https://asamblea18deoctubr.wixsite.com/website	)
 <asamblea18deoctubre@gmail.com>
