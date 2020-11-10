@@ -1,5 +1,5 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: MAI12
+# NOMBRE ASAMBLEA: Asamblea La Farfana
 
 [instagram]()
 [facebook]()
