@@ -71,7 +71,7 @@ Una nueva constitución aprobada por el pueblo, cooperativismo y desarrollar ví
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-#### Se dirige al pueblo, a los vecinos, a informarse, y participar del proceso constituyente y salir a la plaza a compartir. 
+#### Se dirige al "pueblo", a los vecinos, principalmente informarse, y participar del proceso constituyente y salir a la plaza a compartir. 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
