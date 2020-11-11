@@ -1,87 +1,84 @@
-#### FOLIO: CER01
-# Asamblea General Cerrillos 
+#### FOLIO: CER02
+# A LA SUERTE DE LA OLLA
 
-[instagram](https://www.instagram.com/asambleageneralcerrillos/)
-[facebook](https://www.facebook.com/asambleageneralcerrillos/)
+[instagram](https://www.instagram.com/alasuertedelaolla_cerrillos/)
+[facebook]()
 [twitter]()
-<asambleageneralcerrillos@gmail.com
->
+<correo@correo.cl>
 ---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-Escribir al correo gmail o dm ig. 
+### llarelyvanesa@gmail.com (gmail de transferencias y acopio)
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* Coordinadora Gabriela Paz - Maipú/Cerillos
-* La resistencia Maipú
-* Cultura en resistencia (Colectivo/medio difusión)
-* Mosacat Chile (Movimiento socioambiental por el agua y el territorio)
-* Revolución Cerillos
-
+* Cultura en resistencia
+* Colectivo 18 de octubre cerillos
+* Mosacat Chile
+* Del otro lado de la capucha (medio de difusión/información)
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de información y difusión de actividades|idem Ig|No aplica| No aplica|
+|0|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|1,091 seguidores|218|121| 0
+|278|100|21| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 16 Noviembre 2019
+* Primera Publicación IG: 18 de Julio (pero es una iniciativa que surge del colectivo/medio de difusión "cultura en resistencia Cerillos", medio que inició actividad Octubre 2019)
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: Semanal (2, 3 veces)
-De abril en adelante mensual. 
-Actividades: Semanal (2, 3 veces) De abril en adelante mensual. 
+Publicaciones: Julio (semanales), Agosto mensual (2 publicaciones), Septiembre mensual, Octubre semanal más actividad.
+
+Actividades: Olla común, entrega de donaciones, gestión de donaciones, acopio y rifas
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: Parque Lo Errazuriz, cerillos
+* Sector de la comununa/ciudad: Club sede San Martín, 14 de octubre 1241, Cerillos
 
 ---
 ### Describir temas de interés y/o trabajo
-###  Recuperación de espacios comunitarios, apoyo mutuo, organización territorial, participación ciudadana (se hace incapié en la participación de NNA)
+Apoyo mutuo, organización territorial, red de abastecimiento, poder de pobladores. 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-"Recuperemos nuestros espacios comunitarios" 
-
+Se trabaja en pos de la resistencia y el cuidado entre vecinos y por vecinos: "Ollita común resistencia y consecuencia". 
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-* Marchas territoriales 
-* Jornadas comunitarias - artísticas (musicales) al aire libre
-* Pintatón sorora
-* Cacerolazo 
-* Ciclos de cine familiar
-* Conversatorios y exposiciones
-* Actividades para niñxs
-* Colectivo 18 Octubre Cerrillos
-* Onces comunitarias 
----
+* Actividad solidaria: Olla común
+* Red de abastecimiento autogestionada
+* Gestión de donaciones (gas, comida)
+* Rifas
+* Acopio 
+* Jornadas de construcción de rucos para personas en situación de calle 
+* Festival de cine y arte
+
+
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-#### Se dirige directamente a los vecinos, a recuperar los espacios. Emplaza al estado y a carabineros por violaciones a DDHH. 
+Se dirige a las y los pobladores, no hay emplazamiento directo (escrito, relatos, declaraciones, afiches) al estado y/o privados o autoridad, pero en algunas publicaciones utilizan #renunciapiñera.
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-Asambleismo, horizontalidad
+
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
-la cuenta se encuentra inactiva desde 16 Septiembre 2020. Se nota organización y movilización (protesta) constante entre Octubre y Marzo 2020, durante pandemia las publicaciones son más bien información, afiches, y actividades solidarias: olla común y acopio. 
 
 **Iconos:**
+
+![imagen](olla.png) 
 
 **Banderas:**
 
@@ -92,7 +89,7 @@ la cuenta se encuentra inactiva desde 16 Septiembre 2020. Se nota organización 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> "Fuera todos, que se vayan todos". 
+> resumen de lo encontrado
 
 | Declaraciones | infografía | 
 |---|---|
@@ -101,11 +98,11 @@ la cuenta se encuentra inactiva desde 16 Septiembre 2020. Se nota organización 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> Aparato violento, condena a violaciones DDHH y visibilización de montajes.
+> resumen de lo encontrado
 
 | Declaraciones | infografía | 
 |---|---|
-|"Una vez más los pacos culiaos armando sus montajes, en cerillos no les compramos" | [Publicación de Montaje](https://www.instagram.com/p/B6QcFM-JAlb/) |
+|Anotar los comunicados | ![imagen]() |
 
 
 ---
