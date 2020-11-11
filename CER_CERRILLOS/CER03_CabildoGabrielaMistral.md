@@ -1,84 +1,86 @@
-#### FOLIO: CER02
-# A LA SUERTE DE LA OLLA
+#### FOLIO: CER03
+# CABILDO GABRIELA MISTRAL
 
-[instagram](https://www.instagram.com/alasuertedelaolla_cerrillos/)
-[facebook]()
+[instagram](https://www.instagram.com/cabildogm/)
+[facebook](https://m.facebook.com/cabildogm/)
 [twitter]()
-<correo@correo.cl>
+
 ---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-### LLarely Cea - llarelyvanesa@gmail.com (gmail de transferencias y acopio)
+Escribir dm al intagram
+
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* Cultura en resistencia
-* Colectivo 18 de octubre cerillos
-* Mosacat Chile
-* Del otro lado de la capucha (medio de difusión/información)
+* Cerrillos ciudadano
+* Coordinadora Gabriela Paz (feministas Cerrillo a raíz movilizaciones 2018)
+* Asamblea General Cerrillos
+* MOSACAT Chile
+* Delotroladode la capucha
+* Cultura en resistencia 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y difusión de actividades| Idem Ig| No aplica | No Aplica
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|278|100|21| 0
+|1,322|678|27| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 18 de Julio (pero es una iniciativa que surge del colectivo/medio de difusión "cultura en resistencia Cerillos", medio que inició actividad Octubre 2019)
+* Primera Publicación IG: 25 Diciembre 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: Julio (semanales), Agosto mensual (2 publicaciones), Septiembre mensual, Octubre semanal más actividad.
+Publicaciones:Diario (diciembre, enero, febrero, marzo), Marzo- Agosto inactiva, y última publicación 3 Octubre. 
 
-Actividades: Olla común, entrega de donaciones, gestión de donaciones, acopio y rifas
+Actividades: Semanales al menos 2 por semana (diciembre, enero, febrero, marzo), Marzo- Agosto inactiva (se convocó a cabildo el 31 Agosto) y última publicación 3 Octubre. 
+
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: Club sede San Martín, 14 de octubre 1241, Cerillos
+* Sector de la comununa/ciudad: Plaza Gabriela Mistral, Barrio Gabriela Mistral, Comuna Cerillos
 
 ---
 ### Describir temas de interés y/o trabajo
-Apoyo mutuo, organización territorial, red de abastecimiento, poder de pobladores. 
+ayuda mutuo, desarrollo de comunidad, vinculación con otras organizaciones territoriales (cerrillos), proceso constituyente, autoformación y ayuda víctimas de represión estatal. 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-Se trabaja en pos de la resistencia y el cuidado entre vecinos y por vecinos: "Ollita común resistencia y consecuencia".  Somos un grupo de personas autoconvocadas que hacen esto con el fin de solo ayudar al pueblo (...) Por que solo el pueblo ayuda al pueblo, ayudemos todxs juntxs las nobles causas de las ollas comunes."
+Una nueva constitución aprobada por el pueblo, cooperativismo y desarrollar vínculos comunitarios fuertes. 
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-* Actividad solidaria: Olla común
-* Red de abastecimiento autogestionada
-* Gestión de donaciones (gas, comida)
-* Rifas
-* Acopio 
-* Jornadas de construcción de rucos para personas en situación de calle 
-* Festival de cine y arte
+* Creación de cooperativa de consumo
+* Cabildos
+* Actividades solidarios "Cerrillos ayuda a Valpo" (diciembre 2019)
+* Charlas (proceso constituyente)
+* Gran baratillo
+* Actividades con niñes 
+* 
 
-
+---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-Se dirige a las y los pobladores, no hay emplazamiento directo (escrito, relatos, declaraciones, afiches) al estado y/o privados o autoridad, pero en algunas publicaciones utilizan #renunciapiñera.
-
+#### Se dirige al pueblo, a los vecinos, a informarse, y participar del proceso constituyente y salir a la plaza a compartir. 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+Asambleísmo
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
-
+Proceso constituyente, autoformación. 
 **Iconos:**
-
-![imagen](olla.png) 
 
 **Banderas:**
 
@@ -89,7 +91,7 @@ Se dirige a las y los pobladores, no hay emplazamiento directo (escrito, relatos
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> "La única respuesta del gobierno es la represión"
 
 | Declaraciones | infografía | 
 |---|---|
@@ -98,11 +100,11 @@ Se dirige a las y los pobladores, no hay emplazamiento directo (escrito, relatos
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|"Fuera Rozas"(última publicación en Ig) | ![imagen]() |
 
 
 ---
