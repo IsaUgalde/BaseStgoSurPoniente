@@ -62,7 +62,7 @@ Feminismo, apoyo mutuo, proceso constituyente. Organización territorial feminis
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 * Confección de capuchas 
-* Intervenciones artísticas 
+* Intervenciones artísticas/urbanas
 * Marchas territoriales 
 * Conmemoraciones
 * Información 
@@ -85,6 +85,7 @@ Asamblea - horizontalidad
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 Feminismo, femicidios, convocatoria a marchas y pañuelazos por el aborto. 
+
 **Iconos:**
 
 **Banderas:**

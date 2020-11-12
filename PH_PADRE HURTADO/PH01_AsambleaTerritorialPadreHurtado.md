@@ -32,7 +32,7 @@
 
 * **Actividad:**   
 
-* Primera Publicación FB: 17 Noviembre 2019
+* Primera Publicación FB: 17 Noviembre 2019. Ultima públicación en Septiembre 2020. 
 
 ---
 ### Frecuencia de publicación.

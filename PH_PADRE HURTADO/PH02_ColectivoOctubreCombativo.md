@@ -18,6 +18,7 @@
 * Revolución Cerrillos (página de contrainformación y difusión)
 *  Colectivo propaganda Padre Hurtado (propaganda -información)
 * Asamblea villa Frei
+* Asamblea mujeres y discidencias Maipú
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
