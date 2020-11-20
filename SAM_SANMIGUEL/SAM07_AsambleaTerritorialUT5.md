@@ -1,7 +1,8 @@
-#### FOLIO: SAM06
-# Asamblea Territorial Territorio 4 
+#### FOLIO: SAM07
 
-[instagram](https://www.instagram.com/atsmterritorio4/)
+# Asamblea Territorial Unidad 5
+
+[instagram](https://www.instagram.com/cdn_asamblea/)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -9,68 +10,64 @@
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-Escribir dm al instagram 
+Enviar dm al ig. 
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* Asambleas territoriales SAN MIGUEL. 
+* Todas las asambleas territoriales de San Miguel 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de actividades, difusión de información |No aplica|No aplica| No aplica|
+|Difusión de información, difusión de actividades|No aplica|No aplica| No aplica|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|296|229|55| 0
+|373|638|43| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 24 Diciembre 2019 (activo)
+* Primera Publicación IG: 27 de Enero 2020 (Activa)
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: Semanal (marzo - mayo inactividad) A(gosto a Octubre Inactiva.) 
+Publicaciones: Semanal. Marzo, abril, mayo 1 publicación mensual. 
 
 Actividades: Semanal 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: Departamental, Santa Rosa, Gran avenida, Salesianos. Plaza Madeco. 
+* Sector de la comununa/ciudad: cuadrante departamental - gran avenuda - lo ovalle - J.J prieto. 
 
 ---
 ### Describir temas de interés y/o trabajo
-* Autonomía, participación, vínculo vecinal, apoyo mutuo, activisimo anticarcelario, derechos de reos. 
+Solidaridad, apoyo mutuo, organización social, participación vecinal. 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### (El horizonte hacia el cual se quiere avanzar.)Recuperación de espacios públicos a favor de la comunidad y vecinos. 
-* Organización vecinal, adscribe a horizontes similares a la ATSM como nueva constitución. "Aprobar y no organizarse es igual que rechazar" 
+#### (El horizonte hacia el cual se quiere avanzar.)
+* Proceso constituyente, nueva constitución democrática entre todos , "Chile justo, equitativo, participativo". 
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-> En general adscribe a actividades de la ATSM 
-* Actividades culturales 
-* Cabildo de masculinidades 
-* Pasacalles 
-* Cine popular 
-* Yoga Constituyente 
-* Mural 
-* Abrazo constituyente 
-* Cine de elecciones 
+* Reunión abierta mujeres autoconvocadas 
+* Abrazo constituyente (ATSM1)
+* Olla común Rayén 
+* Conversatorios Online
+* Conversatorio Online "La constitución que queremos"
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-* Se dirige a los vecinos de esta unidad territorial, los emplaza a la solidaridad vecinal y a mantener la organización vecinal. 
+Se dirige a los vecinos de la unidad territorial, a seguir participando y mantenerse unidos. A participar e informarse del proceso constituyente. 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-Asamblea, horizontalidad / vocerías. 
+
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
@@ -98,7 +95,7 @@ Asamblea, horizontalidad / vocerías.
 
 | Declaraciones | infografía | 
 |---|---|
-|"Disolución Ahora" (Noviembre 2020)| ![imagen](pacos1.png) |
+|Sí, basta de violencia y represión, carabineros debe desaparecer como institución, una reforma ya parece insuficiente - Caso Antony| ![Publicación de Ig](https://www.instagram.com/p/CF9wXR-JEAG/) |
 
 
 ---
