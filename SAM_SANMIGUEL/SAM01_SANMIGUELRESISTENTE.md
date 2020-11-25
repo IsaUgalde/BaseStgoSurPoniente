@@ -52,7 +52,7 @@ Actividades: Semanales hasta marzo.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-Les dejamos invitados a seguir resistiendo en esta lucha, hasta que la dignidad se haga costumbre. "Hasta que "Ciudad del niño barrio resistente". "La lucha como estilo de vida"
+* Les dejamos invitados a seguir resistiendo en esta lucha, hasta que la dignidad se haga costumbre. "Hasta que "Ciudad del niño barrio resistente". "La lucha como estilo de vida"
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)

@@ -17,7 +17,7 @@
 * Asamblea popular PAC en la lucha 
 * Asamblea población San Joaquín
 * Asamblea mujeres y discidencias PAC
-* Huerta dávila Wexipantu
+* Huerta dávila Wexipantu: https://www.instagram.com/huertadavila_wexipantu/
 * 
 
 ### Redes sociales
@@ -68,11 +68,13 @@ Actividades: Semanal
 * Pichanga por los presos políticos }
 * Jornada muralista
 * Dávila delivery
+* Red de abastecimiento popular "comprando kilos juntos"
+* Huerta dávila Wexipantu
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-#### Se dirige a vecinos y vecinas a organizarse y a salir a la plaza, luchar, y sobre todo la  importancia en dignidad y liberación a los presos de la revuelta. La mayor parte de publicaciones y actividades actuales giran en torno a esta demanda. 
+#### Se dirige a vecinos y vecinas a organizarse y a salir a la plaza, luchar, y sobre todo la  importancia en dignidad y liberación a los presos de la revuelta. La mayor parte de publicaciones y actividades actuales giran en torno a esta demanda y a red de abastecimiento popular. Apropiación de espacio: Se crea la huerta dávila Wexipantu.
 
 ---
 ### Tipo de organización interna.

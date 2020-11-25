@@ -68,6 +68,7 @@ Horizontalidad, respeto.
 
 **Iconos:**
 
+![linkear imagen](ollalegua.png)
 **Banderas:**
 
 **Diseño estético:**

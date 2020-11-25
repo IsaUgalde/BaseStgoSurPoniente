@@ -9,7 +9,7 @@
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-Escribir dm al instagram 
+* Escribir dm al instagram 
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)

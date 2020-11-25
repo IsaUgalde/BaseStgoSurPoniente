@@ -15,7 +15,10 @@ Enviar dm instagram o mail.
 #### (listar otras organizaciones que habitualmente)
 * Olla común mujeres de la legua 
 * Coordinadora 18 de Octubre 
+* Difusión territorial San Joaquín 
+* Capuchas revolucionarios 
 * 
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 

@@ -28,13 +28,13 @@ Dm al instagram
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|949|195|218| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 18 Noviembre 2019
+* Primera Publicación IG: 18 Noviembre 2019 (actualmente activa)
 
 ---
 ### Frecuencia de publicación.
@@ -49,30 +49,33 @@ Actividades: Semanales (1,2)
 
 ---
 ### Describir temas de interés y/o trabajo
-Asamblea constituyente, poder popular, vinculación territorial. 
+#### Asamblea constituyente, solidaridad, poder popular, vinculación territorial, activisimo carcelario - político. 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 * Exigimos una asamblea constituyente libre y soberana donde nuestros representantes sean elegidos de manera directa
 * Exigimos la renuncia de Piñera 
 - Exigimos justicia para los presos, torturados y muertos.
-"la lucha no termina hasta que el pueblo consiga su dignidad y libertad". 
+"la lucha no termina hasta que el pueblo consiga su dignidad y libertad".
+"viviremos, volveremos y venceremos". 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 * Asambleas
 * Talleres
 * Velatón
-
+* Rifas a benficios
+* Difusión de información 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-Se dirige a san joaquinos/as a participar, unirse en la organización y luchar.  A no bajar los brazos. 
+Se dirige a san joaquinos/as a participar, informarse, unirse en la organización y luchar.  A no bajar los brazos. 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-
+Asamblea / horizontalidad. 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
