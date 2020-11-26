@@ -1,4 +1,4 @@
-#### FOLIO: SAR01
+#### FOLIO:SAR01
 # Asamblea Territorial San Ramón 
 
 [instagram]()
@@ -13,7 +13,7 @@ Mandar dm al Ig
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* San Ramón Resiste 
+* San Ramón Resiste (pre 18 Octubre)
 * Mujeres San Ramón (pre 18 Octubre) 
 * Contra Info San Ramón 
 * San Miguel Resistente 
@@ -21,7 +21,7 @@ Mandar dm al Ig
 * Capuchas Revolucionarios
 * Resistencia Zona Sur 
 * El Bosque Resiste 
-* Movimiento Solidario Vida Digna
+* Movimiento Solidario Vida Digna (pre 18 Octubre)
 
 
 ### Redes sociales
