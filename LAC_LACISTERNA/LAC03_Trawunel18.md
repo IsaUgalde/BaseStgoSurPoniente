@@ -1,7 +1,10 @@
 #### FOLIO: LAC03
 # Trawun el 18
 
-[instagram](https://www.instagram.com/p/B7wJ09ZJz5w/)
+[instagram 1 Trawun_el18](https://www.instagram.com/p/B7wJ09ZJz5w/)
+
+[instagram 2 Trawun18 ](https://www.instagram.com/p/CIL0_LNpHFS/) 
+
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -9,7 +12,7 @@
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-* Dm al ig
+* Dm al ig 2
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
@@ -18,7 +21,8 @@
 * La cisterna no se duerme 
 * Nuevo pacto La Cisterna
 * El bloque la Cisterna 
-
+* JJVV Augusto Biaut
+* Teatro el Aleph
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
@@ -29,13 +33,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|192|56|19| 0
+|2,508|3,920|274| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 6 diciembre 2019 (Inactiva) 
+* Primera Publicación IG: 6 diciembre 2019 (Activa, cambio de Ig; VER IG 2) 
 
 ---
 ### Frecuencia de publicación.
@@ -50,7 +54,7 @@ Actividades: semanales
 
 ---
 ### Describir temas de interés y/o trabajo
-* autogestión, educación popular y apoyo mutuo. 
+* autogestión, educación popular y apoyo mutuo. derechos de la niñez 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
