@@ -17,7 +17,8 @@ dm Ig
 * Trawun el 18 (muchas activades juntes)
 * Asamblea La Cisterna 
 * La Cisterna no se duerme 
-* 
+* JJVV Augusto Biaut
+* Teatro el Aleph
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
@@ -53,7 +54,7 @@ Actividades: Semanales
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-* "Construir agenda de trabajo para construir vida comunitaria". Reivindicar protesta social. Libertad a los presos políticos. " "Una organización popular por la vida digna"
+* "Construir agenda de trabajo para construir vida comunitaria". Reivindicar la protesta y la organización social. Libertad a los presos políticos. " "Una organización popular por la vida digna" "Aprobar y no organizarse es igual que rechazar"
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)

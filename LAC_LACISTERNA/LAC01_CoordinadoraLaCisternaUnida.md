@@ -23,7 +23,8 @@ gmail o dm Ig.
 * Asamblea La Cisterna 
 * Mujeres en red la cisterna 
 * El Bosque Resiste
-
+* JJVV Augusto Biaut
+* Teatro el Aleph
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
