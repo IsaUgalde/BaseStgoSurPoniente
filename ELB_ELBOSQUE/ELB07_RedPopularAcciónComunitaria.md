@@ -8,22 +8,24 @@
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### (Nombres o emails de voceros o representantes)* dm al Ig, redpopulardeaccioncomunitaria@gmail.com 
 
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-
+* El bosque resiste
+* Organización flaite
+*
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|difusión de info y actividades|idem Ig|No aplica| No aplica|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|757|371|32| 0
 
 ---
 
