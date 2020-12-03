@@ -13,9 +13,9 @@
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* 
-* 
-*
+* Ollas comunes el Bosque
+*  Red acción comunitaria
+* El Boske Resiste
 
 
 ### Redes sociales
@@ -47,7 +47,7 @@ Actividades: diarias, entrega de onces.
 * Sector de la comununa/ciudad: Claudio Arrau 106
 ---
 ### Describir temas de interés y/o trabajo
-* Apoyo mutuo, empatía, amor solidaridad,  cooperativismo, autogestión. 
+* Apoyo mutuo, empatía, amor solidaridad,  cooperativismo, autogestión. Niñez 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
