@@ -77,7 +77,7 @@ Reinvdicación de la cultura mapuche "Unidos por un buen vivir", se utilizan con
 * Jornadas de difusión y propagandas 
 * Actividades solidarias en pandemia "Solo el Pueblo ayuda al pueblo" 
 
-![imagen](/imag/covidlafarfa.png)
+![imagen](/Imag/covidlafarfa.png)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
@@ -85,7 +85,7 @@ Reinvdicación de la cultura mapuche "Unidos por un buen vivir", se utilizan con
 Se dirige fundamentalmente a vecinos, autoconvocándolos, utilizando la palabra "pueblo" y también se dirige al estado y privados (MMA) emplazándolo por el asunto del oleducto y al municipio por sus gestiones ineficientes en torno a demandas sociales. 
 > Sonacol S.A. propone construir un oleoducto que ineludiblemente contaminará nuestra agua, su paso incluye pasar por la Farfana y el Pueblito, a pesar de asegurar la implementación de un sistema seguro para los vecinos y el medio ambiente conocemos como funcionan los protocolos de seguridad, hace pocos días Plásticos Clariant sufrió la explosión de uno de sus reactores, empresa que cumple con los más altos estándares de seguridad. Por otra parte Chile como país sísmico tiene antecedentes y mayor probabilidad de fugas, no debemos seguir fomentando la industria petrolera por el daño comprobado que causa al planeta. Actualmente existen oleoductos, algunos con vencimiento ya cumplido, lo que indica la baja o nula regulación del estado.
 La RCA (Resolución de calificación ambiental) fue aprobada y se tienen 30 días para elevar reclamaciones desde que se publica en el diario oficial, el municipio ya expresó su negativa pero no fue considerada. Es fundamental la presión ciudadana, el puerta a puerta e informar sobre el plebiscito online que el municipio coordinó para los días 10 al 15 de diciembre, donde se preguntará si la ciudadanía aprueba o desaprueba el proyecto. INFORMA. VOTA NO AL OLEODUCTO EN EL PLEBISCITO. CUIDA EL PLANETA. (Publicación Ig, 9 diciembre 2019)
-![imagen](/imag/oleoducto.png/)
+![imagen](/Imag/oleoducto.png/)
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
@@ -111,7 +111,7 @@ Desde octubre a febrero hubo una frecuencia de publicación y actividades de má
 
 | Declaraciones | infografía | 
 |---|---|
-|Sobre el Oleducto y el rol del estado: "NOS QUIEREN ENVENENAR" (...) "Este es uno de los proyectos que sirven de ejemplo para demostrar como un estamento público puede vulnerar las voluntades de un pueblo y como se apruebsn o rechazan estas iniciativas cuando la tentativa del beneficio es mayor al compromiso con el pueblo." (Publicación Ig 14 diciembre 2019) | ![imagen](/imag/oleoducto.png/) |
+|Sobre el Oleducto y el rol del estado: "NOS QUIEREN ENVENENAR" (...) "Este es uno de los proyectos que sirven de ejemplo para demostrar como un estamento público puede vulnerar las voluntades de un pueblo y como se apruebsn o rechazan estas iniciativas cuando la tentativa del beneficio es mayor al compromiso con el pueblo." (Publicación Ig 14 diciembre 2019) | ![imagen](/Imag/oleoducto.png/) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
