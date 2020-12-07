@@ -114,4 +114,4 @@ Utilizan colores rojo, blanco y negro en su símbolo (un árbol)
 > Vecinos y Vecinas, en cuanto a la contingencia nacional, se vuelve indispensable la solidaridad entre todas y todos es por esto que como Asamblea la Esperanza Maipú exigimos lo compartido en las siguientes imágenes que fue materializado en intervenciones visualizadas en los paraderos de nuestra villa y en nuestro CESFAM “Dra. Ana María Juricic”, para así proteger nuestras vidas y garantizar nuestro cuidado colectivo que necesitamos en base a esta emergencia. Cuidarnos es tarea de todos y todas ya que el gobierno y sus medidas no lo harán por nosotros/as.
 Solo el pueblo salva al pueblo es por esto el llamado a huelga general en defensa de la vida de todos/as los/as trabajadores/as. ¡Cuidarse también es resistencia!
 FUERA PIÑERA.
-FUERA MAÑALICH. (comunicado Covif)
+FUERA MAÑALICH. (comunicado Covid)

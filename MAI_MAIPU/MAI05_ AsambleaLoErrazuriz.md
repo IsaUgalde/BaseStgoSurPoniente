@@ -115,11 +115,11 @@ Desde Octubre el contenido ha seguido la línea comunitaria, cooperativismo, act
 
 | Declaraciones | infografía | 
 |---|---|
-|"En chile violan, torturan y matan" | ![imagen](/imag/errazuriz1.png.png) 
+|"En chile violan, torturan y matan" | ![imagen](/Imag/errazuriz1.png.png) 
 "Rechazo a la institucionalidad que avala las muertes y sistemáticas violaciones a los derechos humanos| (Ver declaración)
 
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización
 ## Declaración 
-![imagen](/imag/declaracion.png.png) |
+![imagen](/Imag/declaracion.png.png) |
