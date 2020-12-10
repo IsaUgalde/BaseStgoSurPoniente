@@ -42,7 +42,7 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: Semanales
+Publicaciones: Semanales, Junio a Octubre inactiva. 
  
 Actividades: Semanales 
 
@@ -77,7 +77,7 @@ Se dirige a vecinxs y vecinxs, a compartir, conocerse, y conversar sobre demanda
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-
+* Asamblea 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 

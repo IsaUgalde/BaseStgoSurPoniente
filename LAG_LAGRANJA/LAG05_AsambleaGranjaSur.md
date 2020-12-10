@@ -20,7 +20,7 @@
 * Colectivo Las Violetas Sur
 * Del otro lado de la capucha 
 * La olla movilizada
-*
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?

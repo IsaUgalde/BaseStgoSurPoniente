@@ -47,7 +47,7 @@ Actividades: semanales (1,2 veces)
 * Sector de la comununa/ciudad: Población Joao Goulart
 ---
 ### Describir temas de interés y/o trabajo
-* feminismo, ayuda mutua, solidaridad, coordinación entre asambleas (adscribe a la CAT). Se alinea a principios de la CAT. Autonomía, democracia participativa y directa, educación popular, poder local. 
+* feminismo, ayuda mutua, solidaridad, coordinación entre asambleas (adscribe a la Coordinadora Asambleas Territoriales). Se alinea a principios de la CAT. Autonomía, democracia participativa y directa, educación popular, poder local. 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
