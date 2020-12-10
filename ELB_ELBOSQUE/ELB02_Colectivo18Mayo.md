@@ -17,7 +17,7 @@ dm ig
 * Resistencia zona sur
 * Los morros el Bosque
 * Colectivo cultural Luchín 
-* 
+ 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?

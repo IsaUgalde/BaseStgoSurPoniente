@@ -8,7 +8,7 @@
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes).
+#### 
 Escribir dm al Ig. 
 ---
 ### Interacciones frecuentes
@@ -64,7 +64,7 @@ sociedad feminista, no+ femicidios, Nueva constitución
 * Cacerolazos 
 * Canastas solidarias
 * Olla común 
-* 
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).

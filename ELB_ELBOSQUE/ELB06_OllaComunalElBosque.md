@@ -13,6 +13,8 @@
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
+* A parar la olla 
+* Cuchara de palo chile 
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?

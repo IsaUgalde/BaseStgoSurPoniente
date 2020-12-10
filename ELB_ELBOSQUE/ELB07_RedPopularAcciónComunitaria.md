@@ -15,7 +15,7 @@
 #### (listar otras organizaciones que habitualmente)
 * El bosque resiste
 * Organización flaite
-*
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 

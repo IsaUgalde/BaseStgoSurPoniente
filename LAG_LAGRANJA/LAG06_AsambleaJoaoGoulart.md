@@ -19,7 +19,7 @@ patricioponce1967@gmail.com
 * Asamblea Territorial Pudahuel Sur
 * Escuela Constituyente Callejera
 * Movimiento salud en resistencia
-* 
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?

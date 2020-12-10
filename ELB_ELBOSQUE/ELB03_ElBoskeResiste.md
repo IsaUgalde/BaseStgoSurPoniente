@@ -20,7 +20,7 @@
 * San Beca en la Calle 
 * Info Lambi el bosque
 * Colectivo 18 Mayo
-* 
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 

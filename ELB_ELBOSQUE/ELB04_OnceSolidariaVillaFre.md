@@ -14,7 +14,7 @@ dm al Ig
 #### (listar otras organizaciones que habitualmente)
 * Olla común territorial el bosque
 * El Bosque resiste
-* 
+
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
@@ -25,7 +25,7 @@ dm al Ig
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|0|0|0| 0
+|1308|3,074|160| 0
 
 ---
 
