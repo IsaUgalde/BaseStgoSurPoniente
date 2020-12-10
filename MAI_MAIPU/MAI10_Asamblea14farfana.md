@@ -111,7 +111,8 @@ Desde octubre a febrero hubo una frecuencia de publicación y actividades de má
 
 | Declaraciones | infografía | 
 |---|---|
-|Sobre el Oleducto y el rol del estado: "NOS QUIEREN ENVENENAR" (...) "Este es uno de los proyectos que sirven de ejemplo para demostrar como un estamento público puede vulnerar las voluntades de un pueblo y como se apruebsn o rechazan estas iniciativas cuando la tentativa del beneficio es mayor al compromiso con el pueblo." (Publicación Ig 14 diciembre 2019) | ![imagen](/Imag/oleoducto.png/) |
+|Sobre el Oleducto y el rol del estado: "NOS QUIEREN ENVENENAR" (...) "Este es uno de los proyectos que sirven de ejemplo para demostrar como un estamento público puede vulnerar las voluntades de un pueblo y como se apruebsn o rechazan estas iniciativas cuando la tentativa del beneficio es mayor al compromiso con el pueblo." (Publicación Ig 14 diciembre 2019) | 
+![imagen](/Imag/oleoducto.png/) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden

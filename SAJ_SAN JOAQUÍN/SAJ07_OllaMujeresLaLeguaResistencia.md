@@ -1,5 +1,5 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: SAJ07
+# Olla Mujeres de la Legua 
 
 [instagram](https://www.instagram.com/olla_comujeresdelalegua/)
 [instagram 2](https://www.instagram.com/alimentando.la.resistencia/)

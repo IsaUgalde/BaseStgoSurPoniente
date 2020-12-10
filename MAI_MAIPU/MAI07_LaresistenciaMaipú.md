@@ -106,7 +106,7 @@ Predomina la visibilización de violencia de parte de carabineros, enfocada en e
 
 | Declaraciones | infografía | 
 |---|---|
-|"No es el alza del metro, es el gobierno ladrón"| ![imagen](/imag/gobladron.png) (Fuente: jornada de pegado de mensajes, publicación 21 Octubre 2019)|
+|"No es el alza del metro, es el gobierno ladrón"| ![imagen](/Imag/gobladron.png) (Fuente: jornada de pegado de mensajes, publicación 21 Octubre 2019)|
 |"Isabel Plá es cómplice de las reiteradas violaciones a los derechos humanos y exigimos rotundamente su renuncia AHORA.CÓMPLICE Y ENCUBRIDORA, ¡RENUNCIA!|---|
 |"No más abuso del estado ni de los machos" |https://www.instagram.com/p/B5A063hJcHB/|
 
