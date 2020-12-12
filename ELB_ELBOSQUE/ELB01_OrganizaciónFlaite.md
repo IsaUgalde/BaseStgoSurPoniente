@@ -20,7 +20,8 @@
 * Info Lambi - prensa zona sur
 * Cordón vecinal quimey (San Beca)
 * [**Resistencia zona sur**:  Puente alto- La Florida- San Bernardo -La Pintana- El Bosque -La Granja- San Ramón- La Cisterna](https://www.instagram.com/resistencia_zona_sur_/)
-* 
+
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 

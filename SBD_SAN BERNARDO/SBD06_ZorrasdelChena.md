@@ -1,81 +1,86 @@
-#### FOLIO: ELB06
-# Olla Comunal El Bosque
-[instagram](https://www.instagram.com/ollacomunalelbosque/)
+#### FOLIO: SBD06
+# Zorras del Chena
+
+[instagram]()
 [facebook]()
 [twitter]()
-<ollacomunal@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
-#### (Nombres o emails de voceros o representantes)* ollacomunal@gmail.com
-* Contacto: + 569 65911493 / Claudio Arrau
+#### (Nombres o emails de voceros o representantes).
 
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* A parar la olla 
-* Cuchara de palo chile 
-* Fundación Biocéntrica 
+* Asamblea Feminista San Beca 
+* Colectiva feminista NewenFem San Bk
+* Red Ollas San Beka / Coordinadora Autoconvcoada San Beka 
+* Asamblea lesbo feminista RM
+* Periferia en resistencia
+* San Beca en la calle
+* Mujeres Red
 
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de Info y actividades|ídem Ig|No aplica| No aplica|
+|DIFUSIÓN DE INFO Y ACTIVIDADES|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|705|1,394|100| 0
+|632|101|35| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 28 Mayo (última publicación 28 Octubre, inactiva desde el 2 Noviembre, comunicado en facebook)
+* Primera Publicación IG: 23 enero 2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: diario
+Publicaciones: semanal hasta marzo, marzo-junio inactiva, reactiva hasta Agosto 2020 
 
-Actividades: diario
+Actividades: semanal (pero sobre todo adhiere a otras, no organiza )
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: Las Pataguas 11882 (sede de acopio)
+* Sector de la comununa/ciudad: Sector Cerro Chena (pero no se explicita específicamente)
 
 ---
 ### Describir temas de interés y/o trabajo
-* apoyo mutuo, solidaridad, compañerismo, coordinación territorial.
+* feminismo, lucha mapuche, justicia para feminicidos, discidencias y lesbofeministas
 ---
 ### Describir la imagen ideal por la cual se trabaja.
-#### 
-* No más hambre en el territorio, el pueblo ayuda al pueblo
+#### (El horizonte hacia el cual se quiere avanzar.)
+¡Cuerpos y territorios libres del terrorismo de estado! ¡Contra toda violencia patriarcal! 
 
+![](mapufem.png)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-* Olla común
-* Acopio
-* Campañas solidarias
-* Reporte semanal de actividades
-* Coordinación con otras ollas 
+* Adhiera a actividades
+* Marchas
+* Conversatorios en línea
+* Publicación de info 
+* Campaña luka pa las legumbres 
+* Conmemoraciones (Macarena Valdés, Ambar)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-* Se dirige a vecinxs, a recibir y colaborar con ayuda. 
+* Se dirige a todxs lxs feministxs 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-* voluntariado, acopio en un lugar y se separan por sedes para llegar a más vecinos, "el chef del pueblo" lidera al equipo de cocineros. 
-
-![imagen](sectores.png)
+horizontalidad, sororidad 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-![Imagen](comunalboske.png) 
+
+![](zorraschena.png)
 **Banderas:**
 
 **Diseño estético:**
@@ -104,13 +109,7 @@ Actividades: diario
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
 
-[**Video olla comunal el bosque**](https://www.instagram.com/p/CA38RKHFtsc/)
+* COMUNICADO ZORRAS DEL CHENA - AGOSTO 2020: 
+Para leerlo completo:  https://www.instagram.com/p/CEPiFwYJOkt/
 
-* **Aclaración situación de dirigencia Ollas**
-
-![imagen](aclaracion.png)
-
-
-* **Comunicado finalización Olla Comunal, Publicación en Facebook, 2 Noviembre 2020**
-
-![imagen](fb.png)
+![imagen](comuzorras.png) 

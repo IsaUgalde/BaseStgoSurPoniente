@@ -63,7 +63,7 @@ solidaridad, apoyo mutuo, autogestión
 * Apoyo a ollas comunes (entrega de alimentos)
 * Cicletada 
 * Protestas
-* 
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
