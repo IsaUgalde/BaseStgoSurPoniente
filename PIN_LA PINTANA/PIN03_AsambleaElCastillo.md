@@ -78,6 +78,7 @@ LA PINTANA ACTIVA Y COMBATIENTE"**
 * Apoyo y acopio para ollas comunes
 * Ayuda y difusión de emprendimientos de la comuna 
 
+### Intervención muralista
 ![imagen](muralcastillo.png)
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -119,6 +120,7 @@ horizontalidad, asamblea
 |---|---|
 |Anotar los comunicados | ![imagen]() |
 
+## Comunicado 10 Mayo - Muerte adolescente 
 ![imagen](comunicado.png)
 ![imagen](comunicado2.png)
 
