@@ -81,6 +81,7 @@ Actividades: diarias (lun a viernes)
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+![imagen](ollakimu.png)
 
 **Banderas:**
 

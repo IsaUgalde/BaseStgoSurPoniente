@@ -1,21 +1,26 @@
-#### FOLIO: SBD01
-# San Bernardo Solidario 
+#### FOLIO: PIN02
+# Feministas La Pintana 
 
-[instagram](https://www.instagram.com/sanbernardosolidario/)
+[instagram](https://www.instagram.com/feministas.lapintana/)
 [facebook]()
 [twitter]()
-<sanbernardosolidario@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-* Gmail o DM al Instagram o +56967344212
+dm al ig
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* Fundación Mingako 
-* Unidad Social SB
-* 
+* La Resistencia Maipú
+* El boske resiste 
+* Mujeres en red la cisterna
+* Colectivo Newen Fem San Beka 
+* San Miguel Resistente
+* Feministas La Reina
+* Colectivo Las Violetas Sur 
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
@@ -25,51 +30,49 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|1222|2090|41| 0
+|2,198|357|287| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 5 Junio 2020 - HASTA 13 Octubre 2020, última donación 
+* Primera Publicación IG: 2 Diciembre 2019 
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: SEMANALES (3-4)
+Publicaciones: Semanales (3,4)
 
-Actividades: SEMANALES, CONTINUA
+Actividades: semanal 
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: diversos Centros de acopio Villa Pucará, Villa Las Palmeras, Lo herrera, Villa Las Araucarias, Villa Maurinia, Villa Portal y Portales Oriente 
+* Sector de la comununa/ciudad: La Pintana
 
-![imagen](acopio.png)
 ---
 ### Describir temas de interés y/o trabajo
-apoyo mutuo, solidaridad, vinculación comunal, comercio local
+feminismo, derechos reproductivos, derechos de niñez y adolesencia, proceso constituyente.
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-* Apoyar a los que lo están pasando peor. Generar una red de apoyo comunal 
-
-
-![imagen](soli.png)
+* Sociedad feminista´, aborto libre seguro y gratuito, NO + SENAME, NUEVA Constitución. ¡Alerta morada por todas las que faltan! 
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-* Recolección de alimentos para ollas comunes
-* Recolección de insumos para mujeres 
-* Recolección de insumos para niñxs 
-* Catastro y apoyo comercio local (formulario)
+* Intervenciones artísticas 
+* Funas 
+* Conversatorio 
+* Difusión de información feminista 
+
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-* Se dirige a vecinxs de San Bernardo a apoyar
+* Se diriga a las pintaninas "en la lucha" , y emplaza al estado, a sus ministros y carabineros. 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-* HORIZONTALIDAD Y VOLUNTARIADO 
+asamblea, horizontalidad, sororidad, 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
@@ -97,7 +100,11 @@ apoyo mutuo, solidaridad, vinculación comunal, comercio local
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|"Puta, maraca, pero nunca paca"| |
+|"Ese paco pudo ser un aborto"| ![imagen]() |
+
+> "En la pintana igual nos manifestamos en contra de los pacos opresores que han dado muerte y mutilación ocular al pueblo a ese pueblo que supuestamente juraron proteger. NUNCA MÁS SE CELEBRARA EL DIA DE LOS PACOS!! LXS COMPAÑERXS CAIDOS NO ESTAN OLVIDADOS Y POR ELLXS VENCEREMOS!!" 
+
 
 
 ---

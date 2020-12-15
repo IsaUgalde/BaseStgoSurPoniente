@@ -1,75 +1,66 @@
-#### FOLIO: SBD01
-# San Bernardo Solidario 
+#### FOLIO: PIN04
+# Revolución La Pintana
 
-[instagram](https://www.instagram.com/sanbernardosolidario/)
+[instagram]()
 [facebook]()
 [twitter]()
-<sanbernardosolidario@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-* Gmail o DM al Instagram o +56967344212
+
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
-* Fundación Mingako 
-* Unidad Social SB
-* 
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|DIFUSIÓN DE INFO Y ACTIVIDADES|0|0| 0|
+|0|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag 
 |---|---|---|---|
-|1222|2090|41| 0
+|0|0|0| 0
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG: 5 Junio 2020 - HASTA 13 Octubre 2020, última donación 
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: SEMANALES (3-4)
+Publicaciones:
 
-Actividades: SEMANALES, CONTINUA
+Actividades:
 
 ---
 ### Ubicación
-* Sector de la comununa/ciudad: diversos Centros de acopio Villa Pucará, Villa Las Palmeras, Lo herrera, Villa Las Araucarias, Villa Maurinia, Villa Portal y Portales Oriente 
+* Sector de la comununa/ciudad:
 
-![imagen](acopio.png)
 ---
 ### Describir temas de interés y/o trabajo
-apoyo mutuo, solidaridad, vinculación comunal, comercio local
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-* Apoyar a los que lo están pasando peor. Generar una red de apoyo comunal 
 
-
-![imagen](soli.png)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-* Recolección de alimentos para ollas comunes
-* Recolección de insumos para mujeres 
-* Recolección de insumos para niñxs 
-* Catastro y apoyo comercio local (formulario)
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-* Se dirige a vecinxs de San Bernardo a apoyar
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-* HORIZONTALIDAD Y VOLUNTARIADO 
+
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
