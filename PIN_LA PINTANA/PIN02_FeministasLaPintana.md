@@ -71,8 +71,7 @@ feminismo, derechos reproductivos, derechos de niñez y adolesencia, proceso con
 * Se diriga a las pintaninas "en la lucha" , y emplaza al estado, a sus ministros y carabineros. 
 ---
 ### Tipo de organización interna.
-#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
-asamblea, horizontalidad, sororidad, 
+#### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*) horizontalidad 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
